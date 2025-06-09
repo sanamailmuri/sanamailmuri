@@ -144,8 +144,15 @@ Here are some ideas to get you started:
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="statistics" width="40" height="40"/>
 </a>
+
+    # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanaMailmuri&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SanaMailmuri&theme=radical&hide_border=false)
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 </p>
 <br/>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SanaMailmuri&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
